@@ -1,1 +1,1 @@
-return "FirstKeyLMAO"
+return "StayInTheDiscord"
