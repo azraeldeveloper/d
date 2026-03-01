@@ -1,1 +1,1 @@
-return "WeLoveDeproxies"
+return "RIPDeproxiesMental"
