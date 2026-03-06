@@ -1,1 +1,1 @@
-return "WeLove7stk"
+return "WeLoveInternet"
