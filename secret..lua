@@ -1,1 +1,1 @@
-return "WeLoveInternet"
+return "GloryToDeproxware"
